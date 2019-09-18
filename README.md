@@ -119,3 +119,6 @@ say_hi_seconds_bucket{code="200",le="+Inf"} 1
 say_hi_seconds_sum{code="200"} 9.784e-06
 say_hi_seconds_count{code="200"} 1
 ```
+
+### References
+* https://prometheus.io/docs/guides/go-application/
